@@ -1,4 +1,4 @@
 # cos
-- Logging path to Chief Of Staff (COS) position
+- Charting path to chief of staff (cos) level and train others for the same.
 - It is Allama Iqbal who stated: 'sow a seed, reap a thousand suns" in one of his epic poems.
-- I wish to attain the position of COS (Chief Of Staff) and train others for the same.
+
